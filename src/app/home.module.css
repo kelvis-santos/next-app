@@ -1,0 +1,15 @@
+.image_profile {
+    height: 100px;
+    max-width: 100px;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+.title_box {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.title {
+    margin-left: 20px;
+    width: 200px;
+}
