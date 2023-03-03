@@ -3,7 +3,7 @@ import Image from 'next/image';
 import style from '../home.module.css';
 
 export default function Home() {
-    return <div>
+    return <div className={style.card_home}>
         <div className={style.title_box}>
             <Image className={style.image_profile} src={profilePic} alt="Kelvis Santos" />
             <h1 className={style.title}>Kelvis Santos</h1>

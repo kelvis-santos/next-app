@@ -1,3 +1,7 @@
+.card_home {
+    width: auto;
+    height: 400px;
+}
 .image_profile {
     height: 100px;
     max-width: 100px;
@@ -11,5 +15,5 @@
 }
 .title {
     margin-left: 20px;
-    width: 200px;
+    width: 300px;
 }
